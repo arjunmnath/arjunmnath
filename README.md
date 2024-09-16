@@ -24,6 +24,17 @@
 </a>
 </p>
 
+<h2> Other Profiles</h2>
+
+<p>
+  <a href="https://leetcode.com/arjunmnath/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" height="60" />
+  </a>
+  <a href="https://www.kaggle.com/arjunmnath" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" height="60" />
+  </a>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -38,5 +49,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunmnath&show_icons=true&locale=en" alt="arjunmnath" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunmnath&" alt="arjunmnath" /></p>

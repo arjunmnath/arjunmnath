@@ -1,21 +1,35 @@
-# Arjun Manjunath
+<h1 align="center">Hi 👋, I'm Arjun M Nath</h1>
+<h3 align="center">An AI enthusiast and tech explorer from India</h3>
 
-👋 Hello, I'm Arjun Manjunath! [Optional: Brief tagline or what you do.]
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunmnath&label=Profile%20views&color=0e75b6&style=flat" alt="arjunmnath" /> </p>
 
-## About Me
+- 🔭 I’m currently improving my skills in **AI model optimization, cloud deployment, and advanced machine learning**  
+- 🌱 I’m currently learning **advanced reinforcement learning and scaling deep learning models**  
+- 👯 I’m looking to collaborate on **deep learning projects and MERN stack applications**  
+- 🤝 I’m looking for help with **scaling AI models and optimizing for deployment**  
+- 💬 Ask me about **computer vision, deep learning, MERN stack, PyTorch, and data science**  
+- 📫 How to reach me **contact.arjunmnath@gmail.com**  
+- ⚡ Fun fact **I can code better after a cup of chai!**  
 
-[Provide a short paragraph introducing yourself. Highlight your interests, skills, or any relevant information.]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/arjunmnath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="arjunmnath" height="30" width="40" /></a>
+<a href="https://twitter.com/arjunmnath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="arjunmnath" height="30" width="40" /></a>
+<a href="https://dev.to/arjunmnath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" alt="arjunmnath" height="30" width="40" /></a>
+</p>
 
-## My GitHub Stats
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://opencv.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.pytorch.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://www.linux.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunmnath&show_icons=true&locale=en" alt="arjunmnath" /></p>
 
-## Get in Touch
-
-[Optional: Add links to your social media or personal website.]
-
-
-<!---
-arjunmnath/arjunmnath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunmnath&" alt="arjunmnath" /></p>

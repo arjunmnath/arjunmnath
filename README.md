@@ -46,5 +46,7 @@
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://www.linux.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunmnath&show_icons=true&locale=en" alt="arjunmnath" /></p>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunmnath&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunmnath&show_icons=true&locale=en&theme=dracula&line_height=27" alt="arjunmnath" />
+</p>

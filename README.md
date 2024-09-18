@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arjun Manjunath</h1>
 <h3 align="center">An AI enthusiast and tech explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunmnath&label=Profile%20views&color=0e75b6&style=flat" alt="arjunmnath" /> </p>
-
 - 🔭 I’m currently improving my skills in **AI model optimization, cloud deployment, and advanced machine learning**  
 - 🌱 I’m currently learning **advanced reinforcement learning and scaling deep learning models**  
 - 👯 I’m looking to collaborate on **deep learning projects and MERN stack applications**  
@@ -73,3 +71,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunmnath&theme=dracula&hide_langs_below=1" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunmnath&show_icons=true&locale=en&theme=dracula&line_height=27" alt="arjunmnath" />
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc//?username=arjunmnath&label=Views&color=17fc3d&style=flat" alt="arjunmnath" /> </p>

@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Arjun Manjunath</h1>
-<h3 align="center">An AI enthusiast and tech explorer</h3>
 
 - 🔭 I’m currently improving my skills in **AI model optimization, cloud deployment, and advanced machine learning**  
 - 🌱 I’m currently learning **advanced reinforcement learning and scaling deep learning models**  

@@ -67,8 +67,11 @@
 <a href="https://www.linux.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunmnath&theme=dracula&hide_langs_below=1" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunmnath&show_icons=true&locale=en&theme=dracula&line_height=27" alt="arjunmnath" />
+
+<img align="center" width=400 src='https://github-readme-stats.vercel.app/api?username=arjunmnath&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<!-- <img width=400 src='https://streak-stats.demolab.com?user=arjunmnath&theme=vue-dark&hide_border=true' /> -->
+<img align="center" width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=arjunmnath&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc//?username=arjunmnath&label=Views&color=17fc3d&style=flat" alt="arjunmnath" /> </p>

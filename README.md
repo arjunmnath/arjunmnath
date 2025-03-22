@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **deep learning projects and MERN stack applications**  
 - 🤝 I’m looking for help with **scaling AI models and optimizing for deployment**  
 - 💬 Ask me about **computer vision, deep learning, MERN stack, PyTorch, and data science**  
-- 📫 How to reach me **contact.arjunmnath@gmail.com**  
+- 📫 How to reach me **contact@arjunmnath.me**  
 - ⚡ Fun fact: **Coffee is the magical potion that enhances my debugging skills!**
 
 <h3 align="left">Connect with me:</h3>

@@ -47,6 +47,6 @@
     <img src="https://github-readme-stats-davevad93s-projects.vercel.app/api?username=arjunmnath&show_icons=true&locale=en&theme=vue-dark&show=discussions_answered,prs_merged,reviews&include_all_commits=true&hide_border=true&line_height=36" alt="arjunmnath" width=400/>
 </div>
 
-[![Arjun's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arjunmnath&theme=vue&area=true&hide_border=true&radius=8&days=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arjun's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arjunmnath&theme=vue&area=true&hide_border=true&radius=8&days=15)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="left"> <img src="https://komarev.com/ghpvc//?username=arjunmnath&label=Views&color=17fc3d&style=flat" alt="arjunmnath" /> </p>

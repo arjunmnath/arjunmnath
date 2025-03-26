@@ -5,12 +5,6 @@
 - 🤝 Open to Collaborations on deep learning projects & MERN stack applications.
 - 🔍 Seeking Expertise in scaling AI models & optimizing deployments for production.
 - 💡 Ask Me About: Computer vision, deep learning, MERN stack, PyTorch, and data science.
--  
-
-
-
-
-
 
 
 <h2> Other Profiles</h2>

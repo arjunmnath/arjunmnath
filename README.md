@@ -35,7 +35,7 @@
 
 <h2 align="left">Languages and Tools</h2>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=bash,c,cpp,latex,rust,go,cmake,js,ts,mysql,python,react,nextjs,tailwind,nodejs,opencv,mongodb,pytorch,tensorflow,sklearn,gcp,flutter,firebase,apple,swift,vim,neovim&perline=9" />
+   <img src="https://skillicons.dev/icons?i=bash,c,cpp,rust,go,js,ts,python,mysql,mongodb,cmake,latex,react,nextjs,tailwind,nodejs,opencv,pytorch,tensorflow,sklearn,gcp,flutter,firebase,apple,swift,vim,neovim&perline=9" />
 </p>
 
 <h2 align="left">Profile Statistics</h2>

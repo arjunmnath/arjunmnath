@@ -8,18 +8,7 @@
 - 📫 How to reach me **contact@arjunmnath.me**  
 - ⚡ Fun fact: **Coffee is the magical potion that enhances my debugging skills!**
 
-<h2 align="left">Connect with me</h2>
-<p align="left">
-   <a href="https://linkedin.com/in/arjunmnath" target="blank">
-   <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
-   </a>
-   <a href="https://twitter.com/arjunmnath" target="blank">
-   <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="30" width="30" />
-   </a>
-   <a href="https://dev.to/arjunmnath" target="blank">
-   <img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8j7kvp660rqzt99zui8e.png" alt="DEV.to" height="40" width="40" />
-   </a>
-</p>
+
 
 
 
@@ -36,6 +25,19 @@
 <h2 align="left">Languages and Tools</h2>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=bash,c,cpp,rust,go,js,ts,python,swift,mysql,mongodb,cmake,react,firebase,nextjs,tailwind,nodejs,latex,opencv,pytorch,tensorflow,sklearn,gcp,flutter,apple,vim,neovim&perline=9" />
+</p>
+
+<h2 align="left">Get in Touch</h2>
+<p align="left">
+   <a href="https://linkedin.com/in/arjunmnath" target="blank">
+   <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
+   </a>
+   <a href="https://twitter.com/arjunmnath" target="blank">
+   <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="30" width="30" />
+   </a>
+   <a href="https://dev.to/arjunmnath" target="blank">
+   <img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8j7kvp660rqzt99zui8e.png" alt="DEV.to" height="40" width="40" />
+   </a>
 </p>
 
 <h2 align="left">Profile Statistics</h2>

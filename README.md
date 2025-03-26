@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arjun Manjunath</h1>
 
-- 🔭 I’m currently improving my skills in **AI model optimization, cloud deployment, and advanced machine learning**  
-- 🌱 I’m currently learning **advanced reinforcement learning and scaling deep learning models**  
-- 👯 I’m looking to collaborate on **deep learning projects and MERN stack applications**  
-- 🤝 I’m looking for help with **scaling AI models and optimizing for deployment**  
-- 💬 Ask me about **computer vision, deep learning, MERN stack, PyTorch, and data science**  
-- 📫 How to reach me **contact@arjunmnath.me**  
-- ⚡ Fun fact: **Coffee is the magical potion that enhances my debugging skills!**
+- 🚀 Currently Leveling Up in AI model optimization, cloud deployment, and advanced machine learning.
+- 🌱 Diving Deep into advanced reinforcement learning & scaling deep learning models.
+- 🤝 Open to Collaborations on deep learning projects & MERN stack applications.
+- 🔍 Seeking Expertise in scaling AI models & optimizing deployments for production.
+- 💡 Ask Me About: Computer vision, deep learning, MERN stack, PyTorch, and data science.
+-  
+
+
 
 
 
@@ -35,8 +36,8 @@
    <a href="https://twitter.com/arjunmnath" target="blank">
    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="30" width="30" />
    </a>
-   <a href="https://dev.to/arjunmnath" target="blank">
-   <img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8j7kvp660rqzt99zui8e.png" alt="DEV.to" height="40" width="40" />
+   <a href="mailto:contact@arjunmnath.me" target="blank">
+   <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Twitter" height="30" width="30" />
    </a>
 </p>
 

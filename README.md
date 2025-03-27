@@ -24,15 +24,20 @@
 
 <h2 align="left">Get in Touch</h2>
 <p align="left">
-   <a href="https://linkedin.com/in/arjunmnath" target="blank">
-   <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
+   <a href="" target="blank">
+   
    </a>
-   <a href="https://twitter.com/arjunmnath" target="blank">
-   <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="30" width="30" />
+   <a href="" target="blank">
+
    </a>
-   <a href="mailto:contact@arjunmnath.me" target="blank">
-   <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Twitter" height="30" width="30" />
+   <a href="" target="blank">
+   
    </a>
+
+   - <img align="center" src="https://cdn-icons-png.flaticon.com/512/3059/3059997.png" alt="Twitter" height="25" width="25" />  [Website/Portfolio](https://blog.arjunmnath.me) *(Coming Soon!)*
+   - <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="25" width="25" /> [Twitter/X](https://twitter.com/arjunmnath)
+   - <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="25" width="25" /> [LinkedIn](https://linkedin.com/in/arjunmnath)
+   - <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="25" width="25" /> [contact@arjunmnath.me](mailto:contact@arjunmnath.me) 
 </p>
 
 <h2 align="left">Profile Statistics</h2>

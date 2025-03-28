@@ -6,17 +6,6 @@
 - 🔍 Seeking Expertise in scaling AI models & optimizing deployments for production.
 - 💡 Ask Me About: Computer vision, deep learning, MERN stack, PyTorch, and data science.
 
-
-<h2> Other Profiles</h2>
-<p>
-   <a href="https://leetcode.com/arjunmnath/" target="_blank">
-   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" height="40" />
-   </a>
-   <a href="https://www.kaggle.com/arjunmnath" target="_blank">
-   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" height="60" />
-   </a>
-</p>
-
 <h2 align="left">Languages and Tools</h2>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=bash,c,cpp,rust,go,js,ts,python,swift,mysql,mongodb,cmake,react,firebase,nextjs,tailwind,nodejs,latex,opencv,pytorch,tensorflow,sklearn,gcp,flutter,apple,vim,neovim&perline=9" />
@@ -38,6 +27,16 @@
    - <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="25" width="25" /> [Twitter/X](https://twitter.com/arjunmnath)
    - <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="25" width="25" /> [LinkedIn](https://linkedin.com/in/arjunmnath)
    - <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="25" width="25" /> [contact@arjunmnath.me](mailto:contact@arjunmnath.me) 
+</p>
+
+<h2> Other Profiles</h2>
+<p>
+   <a href="https://leetcode.com/arjunmnath/" target="_blank">
+   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" height="40" />
+   </a>
+   <a href="https://www.kaggle.com/arjunmnath" target="_blank">
+   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" height="60" />
+   </a>
 </p>
 
 <h2 align="left">Profile Statistics</h2>

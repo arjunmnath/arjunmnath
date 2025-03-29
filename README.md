@@ -39,6 +39,8 @@
    </a>
 </p>
 
+<details>
+   <summary>Profile Statistics</summary>
 <h2 align="left">Profile Statistics</h2>
 <div align="center">
    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats-davevad93s-projects.vercel.app/?user=arjunmnath&theme=vue-dark&hide_border=true" alt="davevad93" width=460 /></a>  
@@ -51,3 +53,5 @@
 [![Arjun's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arjunmnath&theme=vue&area=true&hide_border=true&radius=8&days=15)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="left"> <img src="https://komarev.com/ghpvc//?username=arjunmnath&label=Views&color=17fc3d&style=flat" alt="arjunmnath" /> </p>
+</details>
+

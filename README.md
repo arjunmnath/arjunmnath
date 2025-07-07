@@ -31,7 +31,7 @@
    - <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="25" width="25" /> [LinkedIn](https://linkedin.com/in/arjunmnath)
    - <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="25" width="25" /> [hi@arjunmnath.me](mailto:hi@arjunmnath.me) 
 </p>
-
+<!--
 <h2> Other Profiles</h2>
 <p>
    <a href="https://leetcode.com/arjunmnath/" target="_blank">
@@ -41,7 +41,7 @@
    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" height="60" />
    </a>
 </p>
-
+-->
 <details>
    <summary>Profile Statistics</summary>
 <h2 align="left">Profile Statistics</h2>
